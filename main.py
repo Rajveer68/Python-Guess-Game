@@ -1,4 +1,3 @@
-
 import random
 
 n = random.randint(1, 100)
@@ -16,7 +15,6 @@ while (a != n):
         print("Lower Number Please!")
     guesses += 1
 
-#practice question
 print(f"You guessed the number {n} in {guesses} guesses!")
 
 
