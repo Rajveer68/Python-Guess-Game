@@ -18,8 +18,7 @@ while (a != n):
 
 #practice question
 print(f"You guessed the number {n} in {guesses} guesses!")
-side=float(input("enter square side: "))
-print("area=",side+side)
+
 
                 
 
